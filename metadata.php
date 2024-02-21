@@ -11,12 +11,18 @@ $aModule = [
     'email' => 'steven.uster@kussin.de',
     'settings' => [
         [
-            'group' => 'kussinBasic',
-            'name' => 'kussinTest',
+            'group' => 'kussin_consent_manager',
+            'name' => 'kussin_consent_script',
             'type' => 'str',
-            'value' => 'test',
         ]
-    ]
+    ],
+    'blocks' => [
+        array(
+            'template'    => 'layout/base.tpl',
+            'block'        => 'base_js',
+            'file'         => '/Application/views/blocks/head_script_consentmanager.tpl'
+        ),
+    ],
 ];
 
 // php vendor/bin/oe-console oe:module:install-configuration source/modules/kussin/consentmanager/
