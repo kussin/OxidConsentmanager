@@ -1,0 +1,39 @@
+{
+  "name": "kussin/consentmanager",
+  "description": "Kussin | Consentmanager",
+  "type": "oxideshop-module",
+  "keywords": [
+    "oxid",
+    "modules",
+    "eShop"
+  ],
+  "homepage": "https://www.kussin.de",
+  "license": [
+    "EULA"
+  ],
+  "authors": [
+    {
+      "name": "Steven Uster",
+      "email": "steven.uster@kussin.de",
+      "homepage": "https://www.kussin.de/",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "email": "info@kussin.eu",
+    "issues": "https://support.kussin.de/"
+  },
+  "extra": {
+    "oxideshop": {
+      "target-directory": "kussin/consentmanager"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Kussin\\Consentmanager\\": "../../../source/modules/kussin/consentmanager"
+    }
+  }
+}
