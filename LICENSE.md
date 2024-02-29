@@ -1,8 +1,8 @@
 # End-User Software License Agreement ("Agreement")
 
-Last updated: August 12, 2023
+Last updated: 02.29.2024
 
-Please read this End-User License Agreement carefully before downloading or using Kussin | Doofinder Connector for OXID eShop.
+Please read this End-User License Agreement carefully before downloading or using Kussin | Consentmanager for OXID eShop.
 
 # Interpretation and Definitions
 
@@ -16,7 +16,7 @@ For the purposes of this End-User License Agreement:
 
 - **Agreement** means this End-User License Agreement that forms the entire agreement between You and the Company regarding the use of the Application.
 
-- **Application** means the software program provided by the Company downloaded by You to a Device, named Kussin | Doofinder Connector for OXID eShop
+- **Application** means the software program provided by the Company downloaded by You to a Device, named Kussin | Consentmanager for OXID eShop
 
 - **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Kussin | eCommerce und Online-Marketing GmbH, Fahltskamp 3, 25421 Pinneberg.
 - **Content** refers to content such as text, images, or other information that can be posted, uploaded, linked to or otherwise made available by You, regardless of the form of that content.

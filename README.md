@@ -21,10 +21,6 @@ vendor/bin/oe-console oe:module:apply-configuration
 **NOTE:** If you are using VCS like GIT for your project, you should add the following path to your `.gitignore` file:
 `/source/modules/kussin/`
 
-## User Guide
-
-[User Guide](USER_GUIDE.md)
-
 ## Bugtracker and Feature Requests
 
 Please use the [Github Issues](https://github.com/kussin/OxidConsentmanager/issues) for bug reports and feature requests.
